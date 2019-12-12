@@ -1,0 +1,256 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "student to finsh the school leavel",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 212277400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": ":  he should finshed high school",
+            "match": {
+              "location": "BackgroungDemo.he_should_finshed_high_school()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 582100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": ":   he should finsh higher secondery school level",
+            "match": {
+              "location": "BackgroungDemo.he_should_finsh_higher_secondery_school_level()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 383100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BackgroundExapmel.school()"
+            }
+          },
+          {
+            "result": {
+              "duration": 156800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BackgroundExapmel.medical()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "he should join medical college",
+        "description": "",
+        "id": "backgroudverfication;he-should-join-medical-college",
+        "after": [
+          {
+            "result": {
+              "duration": 724700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BackgroundExapmel.engg()"
+            }
+          },
+          {
+            "result": {
+              "duration": 314000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BackgroundExapmel.college()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 346500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": ": he should write entrcen exam",
+            "match": {
+              "location": "BackgroungDemo.he_should_write_entrcen_exam()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 341300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": ": he should clear the exam",
+            "match": {
+              "location": "BackgroungDemo.he_should_clear_the_exam()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 321700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": ": he should join medical college",
+            "match": {
+              "location": "BackgroungDemo.he_should_join_medical_college()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "student to finsh the school leavel",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 289400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": ":  he should finshed high school",
+            "match": {
+              "location": "BackgroungDemo.he_should_finshed_high_school()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 284100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": ":   he should finsh higher secondery school level",
+            "match": {
+              "location": "BackgroungDemo.he_should_finsh_higher_secondery_school_level()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 738400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BackgroundExapmel.school()"
+            }
+          },
+          {
+            "result": {
+              "duration": 407000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BackgroundExapmel.medical()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "he should jion engg college",
+        "description": "",
+        "id": "backgroudverfication;he-should-jion-engg-college",
+        "after": [
+          {
+            "result": {
+              "duration": 296700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BackgroundExapmel.engg()"
+            }
+          },
+          {
+            "result": {
+              "duration": 148000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BackgroundExapmel.college()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 197700,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": ": he should write entrcen exam",
+            "match": {
+              "location": "BackgroungDemo.he_should_write_entrcen_exam()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 301500,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": ": he should clear the exam",
+            "match": {
+              "location": "BackgroungDemo.he_should_clear_the_exam()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 397500,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": ": he should join engg college",
+            "match": {
+              "location": "BackgroungDemo.he_should_join_engg_college()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "backgroudverfication",
+    "description": "",
+    "id": "backgroudverfication",
+    "keyword": "Feature",
+    "uri": "Background.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@backgoundfile"
+      }
+    ]
+  }
+]
